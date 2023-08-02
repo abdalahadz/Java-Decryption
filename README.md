@@ -1,2 +1,2 @@
 # Java-Decryption
-A simple substitution cipher (First Year assignment)
+A simple substitution cipher
